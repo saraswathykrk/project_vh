@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VHSensor</string>
+    <string name="request_camera_permission">This app needs camera permission</string>
+    <string name="process_images">Process Images</string>
+    <string name="image_res">Image Res</string>
+    <string name="wait_msg">"Please wait..image is being processed"</string>
+    <string name="btn_msg">"Please wait.."</string>
+    <string name="Load">"Load Data"</string>
+    <string name="NumFaceDetect">"For image (%d) : %s, faces detected are : %d and processing time is : %d ms"</string>
+    <string name="ButtonText">"Click on 'PROCESS IMAGES' button to process images"</string>
+    <string name="LoadData">"Click on \'LOAD DATA\' button to load the image data"</string>
+    <string name="Recall">"Recall: %f, Total Recall: %f"</string>
+    <string name="ImgNotFound"> : Image not found</string>
+    <string name="PROCESS_NEXT">PROCESS NEXT</string>
+    <string name="RECALL">Recall:</string>
+    <string name="IMG_PROCESSED">All images are processed!</string>
+    <string name="BTN_IMG_PROCESSED">IMAGES PROCESSED!</string>
+    <string name="final_iou">0,</string>
+</resources>
